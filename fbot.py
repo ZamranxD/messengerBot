@@ -5,7 +5,7 @@ import time
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--start-maximized")
 
-driver = webdriver.Chrome("./chromedriver")
+driver = webdriver.Chrome("./chromedriver") #try "./chromedriver.exe" if "./chromedriver" doesn't work for you
 
 #just put the link of anyone's inbox whom you wanna text. I've put mine in there as an example
 driver.get("https://web.facebook.com/messages/t/ZamranxD")
