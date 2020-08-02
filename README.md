@@ -5,4 +5,4 @@ Other necessary instructions are included in the python script file.
 <br>
 <strong>You might wanna install selenium if you dont already have it.</strong>
 <br>
-On terminal, run <i>"pip install selenium"</i> for windows and <i>"pip3 install selenium"</i> for Mac/Linux.
+On the powershell/terminal, run <i>"pip install selenium"</i> for windows and <i>"pip3 install selenium"</i> for Mac/Linux.
