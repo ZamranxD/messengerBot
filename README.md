@@ -6,3 +6,6 @@ Other necessary instructions are included in the python script file.
 <strong>You might wanna install selenium if you dont already have it.</strong>
 <br>
 On the powershell/terminal, run <i>"pip install selenium"</i> for windows and <i>"pip3 install selenium"</i> for Mac/Linux.
+
+
+Update : Chrome drivers need to be replaced with the updated version annnnd one of the ID selectors currently doesn't work
